@@ -1,7 +1,6 @@
 import axios from 'axios';
-import { AppError } from '@utils/AppError';
 
-const token = '$2a$12$fxHm24lyx8pnZwNU0zobqeY1CcU/Ft0KYjCZpqwiozpzCrAHwUfae'
+const token = '$2a$12$fxHm24lyx8pnZwNU0zobqeY1CcU/Ft0KYjCZpqwiozpzCrAHwUfae';
 
 const api = axios.create({
     baseURL: 'http://api.center.joinads.me/api/api-center',
