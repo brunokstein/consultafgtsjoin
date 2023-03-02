@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391548261945",
+    "firebase_url": "https://consultafgts-cf0e1-default-rtdb.firebaseio.com",
+    "project_id": "consultafgts-cf0e1",
+    "storage_bucket": "consultafgts-cf0e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391548261945:android:e1010bf10b9065c4ef9fe8",
+        "android_client_info": {
+          "package_name": "com.brunokstein.consultasfgts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391548261945-043nntairsosbegnh4jlkk1skk3cnl2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8rMdhoFfA4KQN96BU1XGP6M5PeIFRyNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391548261945-043nntairsosbegnh4jlkk1skk3cnl2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
